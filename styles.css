@@ -1,0 +1,54 @@
+body {
+  font-family: "Beau Rivage", cursive;
+  font-family: "Inconsolata", monospace;
+}
+
+container {
+  font-family: "Beau Rivage", cursive;
+  font-family: "Inconsolata", monospace;
+  border-radius: 10px 10px;
+  max-width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+h1 {
+  color: #000000;
+  font-family: "Beau Rivage", cursive;
+  font-family: "Inconsolata", monospace;
+  font-size: 34px;
+}
+
+h2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Beau Rivage", cursive;
+  font-family: "Inconsolata", monospace;
+  font-size: 34px;
+}
+.todays-icon {
+  position: relative;
+}
+
+.todays-weather {
+  font-size: 34px;
+  position: relative;
+}
+
+.city-search {
+  position: relative;
+}
+
+.col {
+  text-align: center;
+  font-family: "Beau Rivage", cursive;
+  font-family: "Inconsolata", monospace;
+}
+
+.card {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 10px;
+}
